@@ -1,4 +1,4 @@
-# 🌾 R2-Фермер | Мониторинг сельскохозяйственных полей
+# 🌾 R2-Farmer | Мониторинг сельскохозяйственных полей
 
 > **Умная платформа для анализа состояния полей на основе спутниковых данных Sentinel-2 с поддержкой AI-агронома на базе Google Gemini**
 
@@ -18,9 +18,76 @@
 
 ---
 
+## 🏆 Хакатон
+
+**R2-Farmer** был разработан командой **R² negative** на **Первом городском хакатоне Обнинска 2025**. Решение заняло **3 место** в кейсе № 3 **«AI-анализ здоровья полей по спутниковым снимкам»**.
+
+<p align="center">
+  <img src="docs/hackathon/obninsk-2025/r2-farmer-obninsk-diploma.jpg" alt="Диплом R² negative за 3 место на Первом городском хакатоне Обнинска" width="620"/>
+</p>
+
+- [Скачать презентацию проекта](docs/hackathon/obninsk-2025/r2-farmer-obninsk-presentation.pptx)
+- [Открыть диплом](docs/hackathon/obninsk-2025/r2-farmer-obninsk-diploma.jpg)
+
+<details>
+<summary><strong>Листать презентацию прямо в README</strong></summary>
+
+<p align="center">
+  <img src="docs/hackathon/obninsk-2025/slides/slide-01.png" alt="R2-Farmer presentation slide 01" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-02.png" alt="R2-Farmer presentation slide 02" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-03.png" alt="R2-Farmer presentation slide 03" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-04.png" alt="R2-Farmer presentation slide 04" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-05.png" alt="R2-Farmer presentation slide 05" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-06.png" alt="R2-Farmer presentation slide 06" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-07.png" alt="R2-Farmer presentation slide 07" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-08.png" alt="R2-Farmer presentation slide 08" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-09.png" alt="R2-Farmer presentation slide 09" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-10.png" alt="R2-Farmer presentation slide 10" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-11.png" alt="R2-Farmer presentation slide 11" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-12.png" alt="R2-Farmer presentation slide 12" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-13.png" alt="R2-Farmer presentation slide 13" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-14.png" alt="R2-Farmer presentation slide 14" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-15.png" alt="R2-Farmer presentation slide 15" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-16.png" alt="R2-Farmer presentation slide 16" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-17.png" alt="R2-Farmer presentation slide 17" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-18.png" alt="R2-Farmer presentation slide 18" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-19.png" alt="R2-Farmer presentation slide 19" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-20.png" alt="R2-Farmer presentation slide 20" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-21.png" alt="R2-Farmer presentation slide 21" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-22.png" alt="R2-Farmer presentation slide 22" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-23.png" alt="R2-Farmer presentation slide 23" width="800"/>
+
+  <img src="docs/hackathon/obninsk-2025/slides/slide-24.png" alt="R2-Farmer presentation slide 24" width="800"/>
+
+</p>
+
+</details>
+
 ## 📖 О нашем проекте
 
-**R2-Фермер** — это современное веб-приложение для мониторинга и анализа сельскохозяйственных полей с использованием реальных спутниковых данных **Sentinel-2** и искусственного интеллекта **Google Gemini**. Система помогает фермерам и агрономам принимать обоснованные решения на основе объективных данных о состоянии посевов и получать экспертные рекомендации от AI-агронома.
+**R2-Farmer** — это современное веб-приложение для мониторинга и анализа сельскохозяйственных полей с использованием реальных спутниковых данных **Sentinel-2** и искусственного интеллекта **Google Gemini**. Система помогает фермерам и агрономам принимать обоснованные решения на основе объективных данных о состоянии посевов и получать экспертные рекомендации от AI-агронома.
 
 ### 🎯 Для кого этот проект?
 
