@@ -23,11 +23,11 @@
 **R2-Farmer** мы разработали командой **R² negative** на **Первом городском хакатоне Обнинска 2025**. С этим решением наша команда заняла **3 место** в кейсе № 3 **«AI-анализ здоровья полей по спутниковым снимкам»**.
 
 <p align="center">
-  <img src="docs/hackathon/obninsk-2025/r2-farmer-obninsk-diploma.jpg" alt="Диплом R² negative за 3 место на Первом городском хакатоне Обнинска" width="620"/>
+  <img src="docs/certificates/07_Obninsk_3rd_team.png" alt="Диплом R² negative за 3 место на Первом городском хакатоне Обнинска" width="620"/>
 </p>
 
 - [Скачать презентацию проекта](docs/hackathon/obninsk-2025/r2-farmer-obninsk-presentation.pptx)
-- [Открыть диплом](docs/hackathon/obninsk-2025/r2-farmer-obninsk-diploma.jpg)
+- [Открыть диплом](docs/certificates/07_Obninsk_3rd_team.png)
 
 <details>
 <summary><strong>Листать презентацию прямо в README</strong></summary>
